@@ -1,5 +1,5 @@
-<h1>Hello, I'm Murat 🙋‍♂️</h1>
 <h2>💻👨‍💻Full Stack Web Developer</h2>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## 📖 About me
 
@@ -9,12 +9,11 @@
 * 🎓 I'm a Computer Science student (graduating in October 2021)
 * 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
 * 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
-### Hello World, I'm Murat Kande:
+### Hello World, I'm Murat Kandemir:
 
 <h1 align="center">
   <a target="_blank">
-    <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
   <a target="_blank">
