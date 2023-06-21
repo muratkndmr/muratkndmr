@@ -77,6 +77,11 @@
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/smir45?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
+<p align="left" style="margin-right:0px;padding-right:0px">
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmiehob&theme=algolia" />
+</p>
+
 
 
 
