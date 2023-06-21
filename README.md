@@ -27,24 +27,18 @@
 * 📱 I make apps for Android and iOS
 * 🎓 I'm a Computer Science student (graduating in October 2021)
 * 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
-* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
 
 <br/>
 <br/>
 
 
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=smir45" alt="smir45" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/smir45?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/smir45?label=Stars" alt="Total Stars">
-</p>
 
 
 
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif"></a>
 <br/>
 
 
