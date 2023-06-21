@@ -1,10 +1,9 @@
-<h2>💻👨‍💻Full Stack Web Developer</h2>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## 📖 About me
 
 ### Hello World, I'm Murat Kandemir:
-
+### 💻👨‍💻Full Stack Web Developer
 <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
