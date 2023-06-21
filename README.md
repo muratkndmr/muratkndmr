@@ -1,6 +1,6 @@
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /> -->
 
-
+<!-- 
 ### Hello World, I'm Murat Kandemir:
 ### 💻👨‍💻Full Stack Web Developer
 <h1 align="center">
@@ -125,4 +125,4 @@ The *isocalendar* plugin displays an isometric view of your commits calendar, al
 ------
 Credits: [smir45](https://github.com/smir45)
 
-Last edited on: 18/08/2021
+Last edited on: 18/08/2021 -->
