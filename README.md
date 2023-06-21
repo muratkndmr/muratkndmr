@@ -1,8 +1,20 @@
-### Hello World, I'm Samir Mishra:
+<h1>Hello, I'm Murat 🙋‍♂️</h1>
+<h2>💻👨‍💻Full Stack Web Developer</h2>
+
+## 📖 About me
+
+* 💻 I'm a full stack web developer
+* 🎨 I'm a self-taught UI designer
+* 📱 I make apps for Android and iOS
+* 🎓 I'm a Computer Science student (graduating in October 2021)
+* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
+* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
+### Hello World, I'm Murat Kande:
 
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
   <a target="_blank">
