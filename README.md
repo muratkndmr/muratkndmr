@@ -21,7 +21,7 @@
 
 
 * 💻 I'm a full stack web developer
-* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
+* 🌐 You can see some of my projects on [my portfolio](https://github.com/muratkndmr)
 
 <br/>
 <br/>
@@ -32,7 +32,7 @@
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/muratkndmr/muratkndmr/blob/master/GIF/github.gif"></a>
 <br/>
 
 
