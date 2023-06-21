@@ -1,6 +1,5 @@
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /> -->
 
-## 📖 About me
 
 ### Hello World, I'm Murat Kandemir:
 ### 💻👨‍💻Full Stack Web Developer
@@ -31,12 +30,6 @@
 <br/>
 <br/>
 
-
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=smir45" alt="smir45" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/smir45?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/smir45?label=Stars" alt="Total Stars">
-</p>
 
 
 
