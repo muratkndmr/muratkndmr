@@ -1,5 +1,5 @@
 ### Hi therdsadase 👋
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 <!--
 **muratkndmr/muratkndmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
