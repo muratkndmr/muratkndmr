@@ -4,7 +4,7 @@
 ### Hello World, I'm Murat Kandemir:
 <!-- ### 💻👨‍💻Full Stack Web Developer  -->
 
-<img width="450" align="center" src="https://raw.githubusercontent.com/vipul-tanwar/Profile-gifs/main/Banner(frontend).gif" alt="">
+<img  src="https://raw.githubusercontent.com/vipul-tanwar/Profile-gifs/main/Banner(frontend).gif" alt="">
 <h1 align="center">Hi 👋, I'm Murat Kandemir</h1>
 <h3 align="center">A passionate web developer from Turkey.</h3>
 
@@ -29,12 +29,13 @@
 
 
 
-<p>
-<h6 align="left">
-Hello, Murat! It's great to hear about your journey in the software industry. Starting in November 2022, you took Front-End development courses from various sources such as Udemy, YouTube, and Turkcell Geleceği Yazanlar. Initially, you were able to solve your problems and understand the concepts on your own, but later on, you realized the need for assistance. Consequently, you joined Neos Software Academy in February 2023 to pursue Full Stack training
-</h6>
-<img align="left" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-</p>
+<div>
+  <h6 align="left">
+    Hello, Murat! It's great to hear about your journey in the software industry. Starting in November 2022, you took Front-End development courses from various sources such as Udemy, YouTube, and Turkcell Geleceği Yazanlar. Initially, you were able to solve your problems and understand the concepts on your own, but later on, you realized the need for assistance. Consequently, you joined Neos Software Academy in February 2023 to pursue Full Stack training.
+  </h6>
+  <img align="left" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+</div>
+
 
 
 
