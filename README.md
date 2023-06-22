@@ -28,9 +28,12 @@
 </p>
 
 <div>
-  <p align="left">Hello, Murat! It's great to hear about your journey in the software industry. Starting in November 2022, you took Front-End development courses from various sources such as Udemy, YouTube, and Turkcell Geleceği Yazanlar. Initially, you were able to solve your problems and understand the concepts on your own, but later on, you realized the need for assistance. Consequently, you joined Neos Software Academy in February 2023 to pursue Full Stack training.</p>
-  <img align="left" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" height="300" width="300" />
+  <p style="float: left; width: 50%;">
+    Hello, Murat! It's great to hear about your journey in the software industry. Starting in November 2022, you took Front-End development courses from various sources such as Udemy, YouTube, and Turkcell Geleceği Yazanlar. Initially, you were able to solve your problems and understand the concepts on your own, but later on, you realized the need for assistance. Consequently, you joined Neos Software Academy in February 2023 to pursue Full Stack training.
+  </p>
+  <img style="float: left; width: 50%;" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" height="300" width="300" />
 </div>
+
 
 
 
