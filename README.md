@@ -4,7 +4,6 @@
 ### Hello World, I'm Murat Kandemir:
 <!-- ### 💻👨‍💻Full Stack Web Developer  -->
 
-[![MasterHead](https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif)](https://muratkndmr.io)
 
 <h1 align="center">Hi 👋, I'm Murat Kandemir</h1>
 <h3 align="center">A passionate web developer from Turkey.</h3>
