@@ -31,6 +31,8 @@
 - 💬 Ask me about **HTML,CSS,JavaScript,SASS,BOOTSTRAPP,DJANGO,PYTHON,REACT**
 
 - 📫 How to reach me **murat98kandemir@gmail.com**
+
+- 💻 I am continuing my work with **speed and curiosity**.
 <br>
 <br>
 
