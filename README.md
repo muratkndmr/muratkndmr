@@ -34,7 +34,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass" width="40" height="40" />
 </a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-  <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" alt="React" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40" />
 </a>
  </p>
 
