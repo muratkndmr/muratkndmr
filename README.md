@@ -26,6 +26,7 @@
 <br>
 
 </p>
+
 | Hello, Murat! It's great to hear about your journey in the software industry. Starting in November 2022, you took Front-End development courses from various sources such as Udemy, YouTube, and Turkcell Geleceği Yazanlar. Initially, you were able to solve your problems and understand the concepts on your own, but later on, you realized the need for assistance. Consequently, you joined Neos Software Academy in February 2023 to pursue Full Stack training. | <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF" width="350" /> |
 |---|---|
 
@@ -33,7 +34,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">    
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -58,4 +59,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muratkndmr&show_icons=true&locale=en" alt="muratkndmr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muratkndmr&" alt="muratkndmr" /></p>
-
+ -->
