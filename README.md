@@ -11,7 +11,7 @@
 
 
 
-<img  align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<img  align="right" alt="Coding" width="350" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 
 
