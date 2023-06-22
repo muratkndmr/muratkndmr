@@ -12,7 +12,7 @@
 
 <img  align="right" margin-right="150px" alt="Coding" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p style="margin-top: 20px;">
+<p style="margin-top: 70px;">
 
 
 - 🔭 I’m currently working on **E-commerce website project**
