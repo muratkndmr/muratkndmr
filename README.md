@@ -13,7 +13,7 @@
 
 
 
-| Hello, Murat! It's great to hear about your journey in the software industry. Starting in November 2022, you took Front-End development courses from various sources such as Udemy, YouTube, and Turkcell Geleceği Yazanlar. Initially, you were able to solve your problems and understand the concepts on your own, but later on, you realized the need for assistance. Consequently, you joined Neos Software Academy in February 2023 to pursue Full Stack training. | <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="GIF" width="350" /> |
+| - 👨‍💻 Hello, Murat! It's great to hear about your journey in the software industry. Starting in November 2022, you took Front-End development courses from various sources such as Udemy, YouTube, and Turkcell Geleceği Yazanlar. Initially, you were able to solve your problems and understand the concepts on your own, but later on, you realized the need for assistance. Consequently, you joined Neos Software Academy in February 2023 to pursue Full Stack training. | <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="GIF" width="350" /> |
 |---|---|
 
 
