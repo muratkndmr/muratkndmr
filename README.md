@@ -4,7 +4,7 @@
 ### Hello World, I'm Murat Kandemir:
 <!-- ### 💻👨‍💻Full Stack Web Developer  -->
 
-
+<img src="https://raw.githubusercontent.com/vipul-tanwar/Profile-gifs/main/Banner(frontend).gif" alt="">
 <h1 align="center">Hi 👋, I'm Murat Kandemir</h1>
 <h3 align="center">A passionate web developer from Turkey.</h3>
 
