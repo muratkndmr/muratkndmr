@@ -34,7 +34,6 @@
 
 - 💻 I am continuing my work with **speed and curiosity**.
 <br>
-<br>
 
 </p>
 
