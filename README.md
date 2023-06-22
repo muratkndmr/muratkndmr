@@ -11,8 +11,7 @@
 
 
 
-<p>
-<img  alt="coding" width="100" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=padhannilesh&label=Profile%20views&color=0e75b6&style=flat" alt="padhannilesh" /> </p>
 
 
 
@@ -25,7 +24,6 @@
 - 📫 How to reach me **murat98kandemir@gmail.com**
 
 
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">    
