@@ -11,7 +11,7 @@
 
 
 
-<img  align="right" alt="Coding" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img  align="right" margin-left="150px" alt="Coding" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
 
