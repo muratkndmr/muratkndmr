@@ -13,7 +13,7 @@
 
 
 
-| - 👨‍💻 Hello, I'm Murat. I am currently a student at Neos Software Academy, where I am receiving Full Stack training. My education is ongoing, and I am about to start my internship. During my training, I am working on various projects, and besides the course, I spend time working on my own projects and conducting research. With a curious nature and a passion for exploration, I believe that I can achieve great heights in this profession. | <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF" width="350" /> |
+| - 👨‍💻Hello, I'm Murat. I completed the Full Stack training at Neos Software Academy. Throughout my training, I worked on various projects. In addition, I spend my time working on my own projects and conducting research. With my curious nature and passion for exploration, I believe I can achieve great success in this profession. | <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF" width="350" /> |
 |---|---|
 
 
